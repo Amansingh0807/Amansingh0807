@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh0807&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh0807" /> </p>
 
-- 🔭 I’m currently working on [a optimization engine](https://devfolio.co/projects/web-design-for-a-price-optimization-tool-11c0)
+- 🔭 I’m currently working on [A Link Shortener](https://devfolio.co/projects/web-design-for-a-price-optimization-tool-11c0)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amansingh0807](https://github.com/Amansingh0807)
 
