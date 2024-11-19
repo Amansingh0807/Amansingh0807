@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amansingh0807](https://github.com/Amansingh0807)
 
-- 💬 Ask me about **JavaScript, React, MongoDB, MySQL, C++**
+- 💬 Ask me about **Mern Stack Development, DSA, WEB3, Cloud and Open source**
 
 - 📫 How to reach me **amansingh080704@gmail.com**
 
