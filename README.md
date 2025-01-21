@@ -1,13 +1,13 @@
 ![logo](https://github.com/Amansingh0807/Amansingh0807/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">Passionate computer science student specializing in frontend development, advancing in backend skills, with keen interests in cloud computing and UI/UX design.</h3>
+<h3 align="center">Passionate student, aspiring software engineer, and full-stack developer with expertise in frontend and backend development, a zeal for open-source contributions, a growing enthusiasm for cloud computing, and a dedication to crafting exceptional UI/UX experiences.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Amansingh0807/Amansingh0807/blob/main/coding%20image.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh0807&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh0807" /> </p>
 
 
-- 🔭 I’m currently working on [Hospital Management System](https://shorturl.at/7LpR8)
+- 🔭 I’m currently working on [AI Form Generator : GenForm](https://genform-8x4o.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amansingh0807](https://github.com/Amansingh0807)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amansingh080704@gmail.com**
 
-- ⚡ Fun fact **Life's too short to be serious all the time—roast😂 responsibly!**
+- ⚡ Fun fact **Life’s too short to take everything seriously—code, laugh, debug, repeat! And if you’re roasting, make it well-seasoned 🔥😂!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
