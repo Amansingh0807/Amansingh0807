@@ -1,4 +1,4 @@
-![logo](https://github.com/Amansingh0807/Amansingh0807/blob/main/github%20banner.png)
+![logo](https://github.com/Amansingh0807/Amansingh0807/blob/main/Aman%20Singh%20GitHub%20banner.png)
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">Passionate student, aspiring software engineer, and full-stack developer with expertise in frontend and backend development, a zeal for open-source contributions, a growing enthusiasm for cloud computing, and a dedication to crafting exceptional UI/UX experiences.</h3>
 
