@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/Amansingh0807/Amansingh0807/blob/main/coding%20image.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh0807&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh0807" /> </p>
+
 
 
 - 🔭 I’m currently working on [AI Form Generator : GenForm](https://genform-8x4o.onrender.com/)
