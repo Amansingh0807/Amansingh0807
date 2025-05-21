@@ -1,6 +1,6 @@
 ![logo](https://github.com/Amansingh0807/Amansingh0807/blob/main/Aman%20Singh%20GitHub%20banner.png)
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">Passionate student, aspiring software engineer, and full-stack developer with expertise in frontend and backend development, a zeal for open-source contributions, a growing enthusiasm for cloud computing, and a dedication to crafting exceptional UI/UX experiences.</h3>
+<h3 align="center">Passionate student, aspiring software engineer, and full-stack developer with expertise in frontend and backend development, a zeal for open-source contributions, a growing enthusiasm for cloud computing, Coding Future in generative AI and Autonomous AI</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Amansingh0807/Amansingh0807/blob/main/coding%20image.jpg">
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amansingh0807](https://github.com/Amansingh0807)
 
-- 💬 Ask me about **Mern Stack Development, DSA, WEB3, Cloud and Open source**
+- 💬 Ask me about **Full Stack Development, Generative AI, DSA, WEB3, Cloud and Open source**
 
 - 📫 How to reach me **amansingh080704@gmail.com**
 
