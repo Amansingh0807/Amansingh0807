@@ -1,6 +1,6 @@
 ![logo](https://github.com/Amansingh0807/Amansingh0807/blob/main/Aman%20Singh%20GitHub%20banner.png)
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">💡 Aspiring Software Engineer | Full-stack Developer crafting AI-powered web apps | Dreaming in code, deploying with purpose, scaling with cloud./h3>
+<h3 align="center">💡 Aspiring Software Engineer | Full-stack Developer crafting AI-powered web apps | Dreaming in code, deploying with purpose, scaling with cloud.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Amansingh0807/Amansingh0807/blob/main/coding%20image.jpg">
 
