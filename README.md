@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Something Bigger This Time](https://github.com/Amansingh0807/Ideahunt)
+- 🔭 I’m currently working on Autonomous Agent
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amansingh0807](https://github.com/Amansingh0807)
 
