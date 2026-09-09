@@ -18,16 +18,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amansingh0807&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Amansingh0807&theme=dark&hide_border=false)<br/><br/>
-
-
-<div align="center">
-
-[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amansingh0807&bg_color=212121&color=e88dad&line=58d092&point=d0baa9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 
 
 ## ✍️ Qoute of the Day
