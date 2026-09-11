@@ -73,8 +73,6 @@
 | 📝 [**GenForm**](https://github.com/Amansingh0807/GenForm) | AI-powered SaaS to generate & publish dynamic web forms from natural language — 500+ active users, zero marketing spend | `Next.js` `React` `Gemini API` `Prisma` `Stripe` `Supabase` |
 | 🛰️ [**VeNeck**](https://github.com/Fliq-Odd/veneck) | Real-time crowd intelligence platform tracking 10,000+ attendees with sub-second latency, perimeter breach detection | `Node.js` `Socket.IO` `Next.js` `Supabase` `Turf.js` `Leaflet` |
 
-> 🔗 Update the repo links above if any of these live under different names on your GitHub.
-
 ---
 
 ### 🌍 Open Source
