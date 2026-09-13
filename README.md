@@ -23,11 +23,11 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Final-year **B.Tech** student at **Guru Gobind Singh Indraprastha University** — CGPA **9.40/10** (Top 1% of my batch)
-- 💼 Currently a **Launchpad Trainee at PwC Acceleration Center** — Rank 19/403 nationally, Rank 1 in college
+- 💼 Previously a **Launchpad Trainee at PwC Acceleration Center** — Rank 19 nationally, Rank 1 in college
 - 🧪 Previously **Software Engineering Intern at Atlas Research** — built backend workflows supporting 100K+ concurrent users
 - 🔭 Building **CLIQ Code**, an AI CLI coding agent with a custom C++ execution engine
 - 🌱 Deep in **Generative AI, LLM orchestration, and distributed systems** right now
-- 💬 Ask me about **Full-Stack Development, GenAI/LLM apps, System Design, DSA, and Open Source**
+- 💬 Ask me about **Full-Stack Development, Cloud, GenAI/LLM apps, System Design, DSA, and Open Source**
 - ⚡ Fun fact: I once explained recursion... by explaining recursion
 
 ---
