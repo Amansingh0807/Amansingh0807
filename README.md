@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">🚀 Software Engineer — building AI-powered products end to end, from LLM pipelines to production-grade backends</h3>
+<h3 align="center">🚀 Software Engineer, building AI-powered products end to end, from LLM pipelines to production-grade backends</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/amansingh08"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -22,9 +22,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year **B.Tech** student at **Guru Gobind Singh Indraprastha University** — CGPA **9.40/10** (Top 1% of my batch)
-- 💼 Previously a **Launchpad Trainee at PwC Acceleration Center** — Rank 19 nationally, Rank 1 in college
-- 🧪 Previously **Software Engineering Intern at Atlas Research** — built backend workflows supporting 100K+ concurrent users
+- 🎓 Final-year **B.Tech** student at **Guru Gobind Singh Indraprastha University** CGPA **9.40/10** (Top 1% of my batch)
+- 💼 Previously a **Launchpad Trainee at PwC Acceleration Center** Rank 19 nationally, Rank 1 in college
+- 🧪 Previously **Software Trainee Member at Atlas Research** built backend workflows supporting 100K+ concurrent users
 - 🔭 Building **CLIQ Code**, an AI CLI coding agent with a custom C++ execution engine
 - 🌱 Deep in **Generative AI, LLM orchestration, and distributed systems** right now
 - 💬 Ask me about **Full-Stack Development, Cloud, GenAI/LLM apps, System Design, DSA, and Open Source**
@@ -35,7 +35,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,js,java,react,nextjs,nodejs,html,css,docker,kubernetes,gcp,postgres,mongodb,redis,git,figma,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,java,react,nextjs,nodejs,html,css,aws,gcp,docker,kubernetes,postgres,mongodb,redis,postman,git,figma,vscode&perline=10" />
 </p>
 
 <table align="center">
@@ -46,16 +46,19 @@
 `C++` `TypeScript` `JavaScript` `Java` `SQL`
 
 **Frameworks & Runtimes**
-`Node.js` `Next.js` `React` `LangChain.js` `REST/Webhooks` `OAuth`
+`Node.js` `Next.js` `React` `REST/Webhooks` `OAuth`
+
+**AI, GenAI & ML Ecosystem**
+`Hugging Face` `RAG` `LangChain.js` `Google Colab`
 
 </td>
 <td valign="top" width="50%">
 
-**Databases**
-`PostgreSQL` `MongoDB` `Redis` `Supabase` `Convex` `Prisma`
+**Databases & Vector Stores**
+`PostgreSQL` `MongoDB` `Redis` `Vector DB` `Supabase` `Convex` `Prisma`
 
 **Cloud, DevOps & Tools**
-`Docker` `Kubernetes` `Google Cloud` `Terraform` `CI/CD` `n8n` `Git`
+`AWS` `Google Cloud` `Docker` `Kubernetes` `Terraform` `CI/CD` `Postman` `n8n` `Git`
 
 </td>
 </tr>
@@ -69,16 +72,49 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧠 [**CLIQ Code**](https://github.com/Fliq-Odd/cliq-code) | AI CLI coding agent — 17-module C++ engine, 4+ LLM providers, sandboxed execution with 5 permission tiers, 40% faster dev workflows | `C++` `Python` `LiteLLM` `pybind11` |
-| 📝 [**GenForm**](https://github.com/Amansingh0807/GenForm) | AI-powered SaaS to generate & publish dynamic web forms from natural language — 500+ active users, zero marketing spend | `Next.js` `React` `Gemini API` `Prisma` `Stripe` `Supabase` |
+| 🧠 [**CLIQ Code**](https://github.com/Fliq-Odd/cliq-code) | AI CLI coding agent : 17-module C++ engine, 4+ LLM providers, sandboxed execution with 5 permission tiers, 40% faster dev workflows | `C++` `Python` `LiteLLM` `pybind11` |
+| 📝 [**GenForm**](https://github.com/Amansingh0807/GenForm) | AI-powered SaaS to generate & publish dynamic web forms from natural language : 500+ active users, zero marketing spend | `Next.js` `React` `Gemini API` `Prisma` `Stripe` `Supabase` |
 | 🛰️ [**VeNeck**](https://github.com/Fliq-Odd/veneck) | Real-time crowd intelligence platform tracking 10,000+ attendees with sub-second latency, perimeter breach detection | `Node.js` `Socket.IO` `Next.js` `Supabase` `Turf.js` `Leaflet` |
 
 ---
 
 ### 🌍 Open Source
 
-- 55+ merged PRs on **[stdlib.js](https://github.com/stdlib-js/stdlib)**
-- Many Others too
+<table width="100%">
+  <tr>
+    <td width="28%" valign="top"><b>⚡ <a href="https://github.com/kestra-io">Kestra</a></b><br/><sub>Workflow Orchestration</sub></td>
+    <td width="72%">
+      <b>300+ PRs</b> across core blueprints and cloud/database plugins:<br/><br/>
+      <a href="https://github.com/kestra-io/blueprints/pulls?q=is%3Apr+state%3Aclosed+author%3AAmansingh0807"><img src="https://img.shields.io/badge/Blueprints-300%2B_PRs-8405FF?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/kestra-io/plugin-gcp/pulls?q=is%3Apr+state%3Aclosed+author%3AAmansingh0807"><img src="https://img.shields.io/badge/Plugin_GCP-6_PRs-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></a>
+      <a href="https://github.com/kestra-io/plugin-supabase/pulls?q=is%3Apr+state%3Aclosed+author%3AAmansingh0807"><img src="https://img.shields.io/badge/Plugin_Supabase-1_PR-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></a>
+      <a href="https://github.com/kestra-io/plugin-googleworkspace/pulls?q=is%3Apr+state%3Aclosed+author%3AAmansingh0807"><img src="https://img.shields.io/badge/Google_Workspace-1_PR-EA4335?style=flat-square&logo=google&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🕸️ <a href="https://github.com/meshery">Meshery (CNCF)</a></b><br/><sub>Cloud Native Management</sub></td>
+    <td>
+      <b>Certified Meshery Contributor</b> : contributing across UI, server & Kubernetes operator:<br/><br/>
+      <a href="https://github.com/meshery/meshery/pulls?q=is%3Apr+state%3Aclosed+author%3AAmansingh0807"><img src="https://img.shields.io/badge/Meshery_Core-10%2B_PRs-00B39F?style=flat-square&logo=cncf&logoColor=white" /></a>
+      <a href="https://github.com/meshery/meshery-operator/pulls?q=is%3Apr+state%3Aclosed+author%3AAmansingh0807"><img src="https://img.shields.io/badge/Meshery_Operator-1_PR-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>📐 <a href="https://github.com/stdlib-js/stdlib">stdlib.js</a></b><br/><sub>Scientific Numerical Library</sub></td>
+    <td>
+      Core mathematical & numerical standard library contributions for JavaScript/Node.js:<br/><br/>
+      <a href="https://github.com/stdlib-js/stdlib/pulls?q=is%3Apr+is%3Amerged+author%3AAmansingh0807"><img src="https://img.shields.io/badge/stdlib.js-55%2B_Merged_PRs-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>☸️ CNCF Ecosystem</b><br/><sub>Multi-Cluster & Batch</sub></td>
+    <td>
+      Active issue triage & ongoing contributions in <b><a href="https://github.com/volcano-sh/volcano">Volcano</a></b> and <b><a href="https://github.com/karmada-io/karmada">Karmada</a></b>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🏆 Achievements
 
@@ -90,8 +126,6 @@
 
 ---
 
-
----
 
 ### 🎖️ Certifications & Badges
 
