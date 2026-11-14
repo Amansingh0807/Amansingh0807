@@ -126,7 +126,6 @@
 
 ---
 
-
 ### 🎖️ Certifications & Badges
 
 <div align="center">
@@ -134,29 +133,38 @@
     <tr>
       <td align="center" width="220">
         <a href="https://www.credly.com/badges/c31881ed-361d-4fac-a3cf-ad4fa067ff3e/public_url">
-          <img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="150" alt="Google Cloud Associate Cloud Engineer" />
+          <img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="130" alt="Google Cloud Associate Cloud Engineer" />
         </a>
         <br />
         <b>Google Cloud ACE</b>
       </td>
       <td align="center" width="220">
         <a href="https://cloud.layer5.io/user/e915fe11-cd37-4701-9e66-2390ed7f3aae?tab=badges&badge=certified-meshery-contributor">
-          <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" height="160" alt="Certified Meshery Contributor" />
+          <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" height="140" alt="Certified Meshery Contributor" />
         </a>
         <br />
         <b>Meshery Contributor</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <a href="https://cloud.layer5.io/user/e915fe11-cd37-4701-9e66-2390ed7f3aae?tab=badges&badge=first-design">
+          <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" height="140" alt="Meshery First Design" />
+        </a>
         <br />
-        <sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
+        <b>Meshery First Design</b>
       </td>
       <td align="center" width="220">
         <a href="https://credentials.redis.io/94d5448d-dca6-4def-8df9-fa908aba11b8#acc.tAEBZM8V">
-          <img src="./redis-se.png" width="150" alt="Redis Certified" />
+          <img src="./redis-se.png" width="130" alt="Redis Certified" />
         </a>
         <br />
         <b>Redis Certified</b>
       </td>
     </tr>
   </table>
+  <br />
+  <sup><a href="https://badges.layer5.io">Explore Layer5 Badge Ecosystem</a></sup>
 </div>
 
 ---
